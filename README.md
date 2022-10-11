@@ -14,5 +14,4 @@ In order to play, you will need a dealer and one or more players to bet in the g
 
 
 
-![Board](![BAU CUA](https://user-images.githubusercontent.com/100321531/195037956-edbd1730-fa85-4cd4-bb5c-60bbdb188186.jpg)
-urce)
+![BAU CUA](https://user-images.githubusercontent.com/100321531/195037956-edbd1730-fa85-4cd4-bb5c-60bbdb188186.jpg)
