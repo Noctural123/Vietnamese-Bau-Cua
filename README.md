@@ -1,5 +1,5 @@
 # Vietnamese-Bau-Cua-
-- Vietnamese gambling game play every year around Tet (Chinese New Year).
+- Gambling game played with friends and family annually during the time of Tet (Lunar New Years).
 - Took about three hours to make in JavaScript.
 - Designed and intialized through code.org.
 
