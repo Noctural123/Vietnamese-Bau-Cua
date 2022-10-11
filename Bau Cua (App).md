@@ -1,5 +1,3 @@
-# Vietnamese  Bau Cua App
-
 
 **Below is the link to the app that I have created through Code.org**
 
